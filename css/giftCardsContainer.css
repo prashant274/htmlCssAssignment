@@ -1,0 +1,23 @@
+.container.gift-cards{
+    height: 550px;
+    background: whitesmoke;
+    display: flex;
+    flex-direction: column;
+}
+.giftCardsHeader {
+    text-align: center;
+    flex-basis: 100px;
+    border: 1px solid black ;
+}
+.giftCardHeading{
+    font-size: 22px;
+
+}
+.giftCardsHeader.giftCardBody{
+    text-align: center;
+    width: 50%;
+}
+.giftCardsFooter {
+    flex-basis: 450px;;
+    border: 1px solid black ;
+}

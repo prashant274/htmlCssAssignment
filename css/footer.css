@@ -1,0 +1,29 @@
+.footer {
+    height: 150px;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(226, 220, 217);
+    line-height: 25px;
+}
+.recurly {
+    flex: 150px;
+}
+.product {
+    flex: 1;
+}
+.resources {
+    flex: 1;
+}
+.company{
+    flex: 1;
+}
+.contact{
+    flex: 1;
+}
+.recurlyLogo{
+    font-size: 25px;
+}
+.fa.recurlyLogo {
+    font-size: 7px;
+}

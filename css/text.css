@@ -1,0 +1,38 @@
+.commonText{
+font-size: 15px;
+}
+
+.commonText.header{
+    color:white;
+}
+
+.commonHeading{
+font-size: 22px;
+font-weight: 100;
+text-align: center;
+}
+
+.commonHeading.header{
+    color: white;
+    margin-top:50px;
+}
+
+commonSubHeading{
+color: white;
+display: inline;
+}
+
+.commonHeading.mainContent{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.commonHeading.subscription{
+    text-align: center;
+    font-size: 16px;
+}
+
+.subscriptionPoints{
+    margin-top: 10px;
+}

@@ -1,0 +1,29 @@
+.container.gift-plans {
+    background: whitesmoke;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    /*padding: 70px;*/
+}
+.giftContent{
+    flex-basis: 600px;
+    font-size: 15px;
+}
+.giftContentHeading {
+    font-size: 22px;
+}
+.gift-plans-ul {
+    list-style-type: none; 
+    padding: 10px; 
+}
+.gift-plans-li {
+    padding: 20px; 
+}
+.image{
+    height: 400px;
+    width: 300px;
+}
+.giftImage{
+    flex-basis: 350px;
+    
+}

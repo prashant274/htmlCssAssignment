@@ -1,0 +1,45 @@
+.commonText.navigationLink{
+	flex-basis:100px;
+	padding-top:5px;
+	text-align:center;
+	text-decoration: none;
+    transition-duration: 0.4s;
+	background-color:georgian;
+	cursor: pointer;
+	color:white;
+    border: 1px solid white;
+}
+
+.signUp{
+  display: flex;
+  justify-content: space-around;
+  flex-basis: 250px;
+}
+
+
+.navigationLink:hover{
+	background-color:gray;
+	color:black;
+}
+
+.icons{
+    transition-duration: 0.4s;
+    margin-left: 15px;
+    margin-top: 5px;
+    cursor: pointer;
+    background: white;
+}
+
+.icons:hover{
+    background-color:gray;
+	color:black;
+}
+
+.icons.callIcon{
+    flex-basis: 22px;
+    border-radius: 28px;
+    text-align: center;
+    border: 1px solid white;
+    margin-bottom: 5px;
+    margin-left: 8px;
+}
